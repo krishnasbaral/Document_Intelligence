@@ -134,3 +134,7 @@ OPENAI_API_KEY=your_api_key
 5️⃣ User asks questions about the documents
 6️⃣ The system retrieves relevant chunks and sends them to the LLM
 7️⃣ The LLM generates an intelligent answer
+
+## 🎥 Demo
+
+![Document Intelligence Demo](demo.gif)
